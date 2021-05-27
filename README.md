@@ -1,7 +1,6 @@
 # Installation Steps
 
 ## Using npm
-
 Run commands
 
 1) ```npm install```
