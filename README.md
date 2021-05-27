@@ -1,7 +1,6 @@
 # Installation Steps
 
 
-
 ## Using npm
 
 Run commands
@@ -21,6 +20,7 @@ Run commands
 2) ```yarn install```
 
 3) ```yarn run dev```
+
 
 
 
